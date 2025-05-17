@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Arshak Ahamad</h1>
+<h1 align="center">I'm Arshak Ahamad</h1>
 <h3 align="center">A Passionate Full Stack Developer | Tech Explorer | Problem Solver</h3>
 
 <p align="center">
